@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on **Unreal Engine**
 
-- 🌱 I’m currently learning **Java,JavaScript,Flutter**
+- 🌱 I'm a Game Developer and Environment Artist"
 
-- ⚡ Fun fact **I am also a SFX Artist.**
+- ⚡ Fun fact **I am also a Game Audio Designer.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
